@@ -10,7 +10,7 @@ summary: "Wem viel anvertraut ist, von dem wird man umso mehr fordern. Wer sich 
 source: pfarrplaner
 source_id: "106@www.pfarrplaner.de"
 cover_alt: "Titelbild zur Predigt \"Christus vor Augen\"."
-audio: audio.mp3
+audio: christus-vor-augen.mp3
 audio_duration: "12:18"
 legacy_id: 106
 events:
